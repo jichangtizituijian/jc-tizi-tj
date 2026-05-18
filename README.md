@@ -264,7 +264,7 @@
 ---
 
 <span id="tangguo"></span>
-### 4. 糖果云 - IEPL专线 + 100% 可用率 + 赠 EMBY
+### 4. 糖果云 - 高端线路 + 100% 可用率 + 赠 EMBY
 
 **官网入口**：
 - [糖果云官网](https://go.clashshome.com/tangguoyun)，[备用地址](https://candytally.monster/?code=KnAaIUBM)
