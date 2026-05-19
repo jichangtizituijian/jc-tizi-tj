@@ -10,7 +10,7 @@
 
 ## 📢 近期公告
 
-> 1、最近大部分机场都换了新协议vless-reality（由于现在落地基本都是海外所以延时普遍都高，但是延时高不代表速度卡），在订阅的工具实际测试和使用中，我的v2rayN明显优于Clash Verge，所以在遇到延迟高或者一些问题时，多换几个工具效果会不一样，当然也受不同地区和网络的影响因人而异。2、最近多地运营商墙比较高，建议优先试试：[红杏云](#hongxingyun)、[悦通](#yuetong)、[快雷GO](#kuaileigo)。3、近期表现最优的是：[红杏云](#hongxingyun)。
+> 1、最近大部分机场都换了新协议vless-reality（由于现在落地基本都是海外所以延时普遍都高，但是延时高不代表速度卡），在订阅的工具实际测试和使用中，我的v2rayN明显优于Clash Verge，所以在遇到延迟高或者一些问题时，多换几个工具效果会不一样，当然也受不同地区和网络的影响因人而异。2、最近多地运营商墙比较高，建议优先试试：[红杏云](#hongxingyun)、[川普云](#trumpyun)、[悦通](#yuetong)、[快雷GO](#kuaileigo)。3、近期表现最优的是：[红杏云](#hongxingyun)。
 
 ---
 
@@ -66,9 +66,10 @@
 - [一、主力机场（重点推荐）](#main)
   - [1. 红杏云](#hongxingyun)
   - [2. 悦通](#yuetong)
-  - [3. 宝可梦加速器](#baokemeng)
-  - [4. 快雷go](#kuaileigo)
-  - [5. 万达云](#wandayun)
+  - [3. 川普云](#trumpyun)
+  - [4. 宝可梦加速器](#baokemeng)
+  - [5. 快雷go](#kuaileigo)
+  - [6. 万达云](#wandayun)
 - [二、备用机场（按需选择）](#backup)
   - [1. Mitce](#mitce)
   - [2. SSRDOG](#ssrdog)
@@ -208,8 +209,63 @@
 
 ---
 
+<span id="trumpyun"></span>
+### 3. 川普云 Trumpyun - 中转 + 专线 + 高性价比
+
+**官网入口**：
+- [川普云官网](https://go.clashshome.com/trumpyun)，[备用地址](  https://trumpyun.xyz/#/register?code=ZnngCcmM)
+
+**机场档案**
+| 项目 | 详情 |
+|------|------|
+| 开业时间 | 2025 年 |
+| 老板肉身 | 境外 |
+| 入口与过境 | 香港 |
+| 节点地区 | 香港、台湾、美国、新加坡、日本、马来西亚、印尼等 |
+| 落地 ISP | Sakura Link Limited、PAN-LIAN TECHNOLOGY CO., LIMITED |
+| 节点数量 | 73 个（100% 可用） |
+| 协议 | SS × 69 / VLESS × 4 |
+| 线路类型 | 中转（69个）、直连（4个） |
+| 设备限制 | 不限制 |
+| AI流媒体解锁 | 支持全球流媒体与 AI 工具 |
+| 审计情况 | 严格无日志政策 |
+| 付款方式 | 支付宝 / 微信 / USDT-TRC20 / USDT-Polygon |
+| TG 群组 | [点击加入](https://t.me/trumpyun2025) |
+| 一键客户端 | 不支持 |
+
+**核心优势**：
+- ✅ 73 个节点 100% 全部可用，零超时
+- ✅ 包含中转与 IEPL 高速专线，晚高峰速度快
+- ✅ 支持全球流媒体与 AI 工具深度解锁
+- ✅ 最高 1Gbps 速率，高峰不限速
+- ✅ 严格无日志政策，保护访问记录
+- ✅ 流量用尽可随时重置或叠加包
+- ✅ 工单系统与 TG 群组全天支持
+
+**缺点**：
+- 2025 年新开机场，运营时间较短
+- 不支持一键客户端，需自行配置订阅
+
+**我的使用体验**：小众机场，近期严打下晚高峰速度依然很快。73 个节点全部可用，中转线路为主，性价比极高，适合追求高速且预算有限的用户。
+
+**推荐套餐**：
+
+| 套餐名称 | 价格 | 流量 | 速率 | 备注 |
+|---------|------|------|------|------|
+| 110G 轻享版 | ¥15/月 | 110GB | 1Gbps | 入门首选，性价比极高 |
+| 200G 极速版 | ¥26/月 | 200GB | 1Gbps | 日常主力推荐 |
+| 300G 尊享版 | ¥38/月 | 300GB | 1Gbps | 重度用户首选 |
+| 500G 旗舰版 | ¥55/月 | 500GB | 1Gbps | 顶级额度，视频下载无忧 |
+| 线路高级定制 | ¥888/一次性 | 私有网络 | 独享带宽 | 企业/高端定制 |
+
+<p align="center">
+  <img src="images/trumpyun.png" width="100%" alt="川普云">
+</p>
+
+---
+
 <span id="baokemeng"></span>
-### 3. 宝可梦加速器 - IEPL/IPLC + 新疆可用
+### 4. 宝可梦加速器 - IEPL/IPLC + 新疆可用
 
 **官网入口**：
 - [宝可梦加速器官网](https://go.clashshome.com/baokemeng)，[备用地址](https://love.p6m6.com/#/register?code=74mX69ks)
@@ -264,7 +320,7 @@
 ---
 
 <span id="kuaileigo"></span>
-### 4. 快雷go - IEPL专线 + 全流媒体解锁 + 电信方向优化
+### 5. 快雷go - IEPL专线 + 全流媒体解锁 + 电信方向优化
 
 **官网入口**：
 - [快雷go官网](https://go.clashshome.com/kuaileigo)，[备用地址](https://www.kuailei.vip/register?code=n5YVQYr2)
@@ -325,7 +381,7 @@
 ---
 
 <span id="wandayun"></span>
-### 5. 万达云 - 专线 + 家宽 + 稳定、抗封锁能力强
+### 6. 万达云 - 专线 + 家宽 + 稳定、抗封锁能力强
 
 **官网入口**：
 - [万达云官网](https://go.clashshome.com/wandayun)，[备用地址](https://link.wdyserver.com/register?code=kfKBXYDH)
@@ -978,6 +1034,7 @@ A: 按以下顺序排查：
 <span id="update"></span>
 
 ## 📌更新纪录
+- 2026-05-19：新增主力机场 [川普云 Trumpyun](#trumpyun)
 - 2026-05-13：更新 [红杏云](#hongxingyun) 、[悦通](#yuetong)节点信息，更新[宝可梦加速器](#baokemeng)价格信息
 - 2026-05-08：更新 [SSRDOG](#ssrdog) 节点信息
 - 2026-05-07：移除[奈云]，新增备用机场[糖果云](#tangguo)
