@@ -210,7 +210,7 @@
 ### 3. 快雷go - IEPL专线 + 全流媒体解锁 + 电信方向优化
 
 **官网入口**：
-- [快雷go官网](https://go.clashshome.com/kuaileigo)，[备用地址](https://www.kuailei.vip/register?code=n5YVQYr2)
+- [快雷go官网](https://go.clashshome.com/kuaileigo)，[备用地址](https://www.kuaileigo.top/register?code=n5YVQYr2)
 
 **优惠码**：`kuailei888`
 
