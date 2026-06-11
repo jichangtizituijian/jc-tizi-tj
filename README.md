@@ -116,7 +116,7 @@
 | 审计情况 | 无审计 |
 | 付款方式 | 支付宝 / 微信 / USDT |
 | TG 频道 | [点击加入](https://t.me/Hongxingyun_bot) |
-| 一键客户端 | Windows / Mac / Android / iOS / 软路由 [官方旧的稳定版本客户端](https://github.com/maomao533/jichang-tizi-tuijian/releases/tag/hongxingyun) |
+| 一键客户端 | Windows / Mac / Android / iOS / 软路由 |
 
 **核心优势**：
 - ✅ 专线 + 多地家宽、原生IP，晚高峰稳定，客服工单回复速度快
@@ -125,7 +125,7 @@
 - ✅ 不限设备，全家共享无压力
 
 **缺点**：
-- 官方一键客户端的话看个人喜欢吧，最新的客户端里面多了专线，更新后也非常稳定，切换模式全部超时的话**建议关闭IPV6**。旧版本在[Releases](https://github.com/maomao533/jichang-tizi-tuijian/releases/tag/hongxingyun)里面，也挺好用。
+- 官方Windows的一键客户端放弃了原来的客户端，现在强制改的Clash verge的，估计有的人不会喜欢。
 
 **我的使用体验**：从 2024 年底开始用，轻量套餐每天刷剧+办公完全够用。是一家价格实惠、生态完善的近乎全能的机场，适合大部分场景使用。
 
