@@ -161,7 +161,7 @@
 | 老板肉身 | 境外 |
 | 入口与过境 | 香港 |
 | 节点地区 | 香港、台湾、美国、新加坡、日本、马来西亚、印尼等 |
-| 落地 ISP | Sakura Link Limited、PAN-LIAN TECHNOLOGY CO., LIMITED |
+| 落地 ISP | GoMami Networks、Sakura Link Limited、PAN-LIAN TECHNOLOGY CO., LIMITED |
 | 节点数量 | 73 个（100% 可用） |
 | 协议 | SS × 69 / VLESS × 4 |
 | 线路类型 | 中转（69个）、直连（4个） |
@@ -216,6 +216,7 @@
 **机场档案**
 | 项目 | 详情 |
 |------|------|
+| 开业时间 | 2025 年 |
 | 入口与过境 | 全部境外 |
 | 节点地区 | 马来西亚、新加坡、日本、台湾、美国、香港等 |
 | 落地 ISP | MICROSOFT、GoMami Networks、Chunghwa Telecom Co., Ltd.、DMIT Cloud Services、GTT Communications Inc.、NetLab Global |
